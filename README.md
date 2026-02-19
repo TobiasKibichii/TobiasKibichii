@@ -24,21 +24,29 @@ My focus is on backend logic, scalable architecture, and delivering reliable end
 <!-- Frontend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"  height="40" alt="TailwindCSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" />
+<img src="https://icongr.am/devicon/typescript-original.svg?size=40&color=f5f0f0" alt="Typescript" />
           
 
 <!-- Backend -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="40" alt="Express"/>
+<img src="https://icongr.am/devicon/express-original.svg?size=40&color=f5f0f0" alt="Express"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/>
+
+
+<img src="https://icongr.am/devicon/nginx-original.svg?size=40&color=f5f0f0" alt="Nginx" />
+<img src="https://icongr.am/devicon/wordpress-plain.svg?size=40&color=f5f0f0" alt ="Wordpress" />
+
 
 <!-- Databases -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+<img src="https://icongr.am/devicon/postgresql-original.svg?size=40&color=f5f0f0" alt="PostgreSql" />
 
 <!-- Mobile Development -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-line-wordmark.svg" height="40" alt="Expo"/>
+<img src="https://icongr.am/devicon/android-original.svg?size=40&color=f5f0f0" alt="Android" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg"  height="40" alt="reactNative" />
           
           
@@ -46,10 +54,13 @@ My focus is on backend logic, scalable architecture, and delivering reliable end
 <!-- DevOps & Tools -->
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VsCode" />
+<img src="https://icongr.am/devicon/intellij-original.svg?size=40&color=f5f0f0" alt="IntellijIDEA" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain-wordmark.svg"  height="40" alt="Github Actions" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+
 
 <!-- Systems -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
