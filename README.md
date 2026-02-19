@@ -10,45 +10,52 @@ My focus is on backend logic, scalable architecture, and delivering reliable end
 </p>
 
 
-<h2>🚀 Technical Skills</h2>
+<h2>🚀 Technical Stack</h2>
 
-<h3>💻 Programming Languages</h3>
-<p>
-🟨 JavaScript &nbsp; | &nbsp;
-🐍 Python &nbsp; | &nbsp;
-🐘 PHP
+<p align="left">
+
+<!-- Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="java" />
+          
+
+<!-- Frontend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"  height="40" alt="TailwindCSS" />
+          
+
+<!-- Backend -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="40" alt="Express"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/>
+
+<!-- Databases -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+
+<!-- Mobile Development -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-line-wordmark.svg" height="40" alt="Expo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg"  height="40" alt="reactNative" />
+          
+          
+
+<!-- DevOps & Tools -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VsCode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+
+<!-- Systems -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+
 </p>
 
-<h3>🌐 Web Development</h3>
-<p>
-⚛️ React &nbsp; | &nbsp;
-🎨 Tailwind CSS &nbsp; | &nbsp;
-📱 React Native &nbsp; | &nbsp;
-🟢 Node.js &nbsp; | &nbsp;
-🚏 Express.js &nbsp; | &nbsp;
-🌿 Django
-</p>
-
-<h3>🗄️ Databases</h3>
-<p>
-🍃 MongoDB &nbsp; | &nbsp;
-🐬 MySQL
-</p>
-
-<h3>☁️ DevOps & Tools</h3>
-<p>
-🔧 Git & GitHub &nbsp; | &nbsp;
-🐳 Docker &nbsp; | &nbsp;
-☁️ AWS &nbsp; | &nbsp;
-🔄 CI/CD &nbsp; | &nbsp;
-🧪 Jest
-</p>
-
-<h3>🖥️ Systems</h3>
-<p>
-🐧 Linux &nbsp; | &nbsp;
-🖧 Virtualization (VMware ESXi, Proxmox)
-</p>
 
 
 <h2>📌 Projects</h2>
