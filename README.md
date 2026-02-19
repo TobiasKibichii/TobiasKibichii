@@ -10,7 +10,7 @@ My focus is on backend logic, scalable architecture, and delivering reliable end
 </p>
 
 
-<h2>🚀 Technical Stack</h2>
+<h2 align="center">🚀 Languages and Tools.</h2>
 
 <p align="left">
 
@@ -67,11 +67,11 @@ My focus is on backend logic, scalable architecture, and delivering reliable end
 
 </p>
 
+<br>
 
+<h2>📌 Featured Projects</h2>
 
-<h2>📌 Projects</h2>
-
-<h3>🛠️ <a href="https://github.com/TobiasKibichii/technotes" target="_blank">TechNotes – Repair Shop Workflow System</a></h3>
+<h3>🛠️ <a href="https://github.com/TobiasKibichii/TechRepairNotesSystem" target="_blank">TechNotes – Repair Shop Workflow System</a></h3>
 
 <p>
 TechNotes is a full-stack web application built to streamline operations in a tech repair shop. 
@@ -91,7 +91,7 @@ The system prioritizes clarity, accountability, and operational efficiency by en
 </ul>
 
 
-<h3>🎓 <a href="https://github.com/TobiasKibichii/campus-connect" target="_blank">Campus Connect – University Community Platform</a></h3>
+<h3>🎓 <a href="https://github.com/TobiasKibichii/CampusConnect" target="_blank">Campus Connect – University Community Platform</a></h3>
 
 <p>
 Campus Connect is a scalable social platform designed for university environments. 
@@ -117,7 +117,8 @@ The platform emphasizes community engagement, intelligent information discovery,
 <ul>
 <li>🤖 Machine Learning fundamentals and applied models</li>
 <li>📱 Mobile application development</li>
-<li>🌿 Backend development with Django</li>
+<li>☁️ Cloud-native deployments</li>
+<li>⚡ Performance optimization</li>
 <li>⚙️ Writing efficient, scalable backend systems</li>
 </ul>
 
@@ -144,9 +145,13 @@ The platform emphasizes community engagement, intelligent information discovery,
 
 <p>
 📧 Email: kibichiitoby314@gmail.com <br>
-🔗 GitHub: <a href="https://github.com/TobiasKibichii">github.com/TobiasKibichii</a>
+<br>
+
 </p>
 
+<p align="center">
+✨ “Building reliable systems. Solving real problems. Evolving every day.” ✨
+</p>
 
 <!--
 **TobiasKibichii/TobiasKibichii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
