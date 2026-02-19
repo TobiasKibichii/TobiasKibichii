@@ -1,6 +1,6 @@
 ## Hi there 👽
 
-<h2>I'm Tobias Kibichii ✨ </h2>
+<h2>I'm Tobias Kibichii  </h2>
 
 <h3>💻 Software Engineer | Full-Stack Developer</h3>
 
@@ -67,7 +67,6 @@ My focus is on backend logic, scalable architecture, and delivering reliable end
 
 </p>
 
-<br>
 
 <h2>📌 Featured Projects</h2>
 
