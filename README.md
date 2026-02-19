@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👽
 
-<h1 align="center">I'm Tobias Kibichii</h1>
+<h1>I'm Tobias Kibichii ✨ </h1>
 
-<h3 align="center">💻 Software Engineer | Full-Stack Developer</h3>
+<h3>💻 Software Engineer | Full-Stack Developer</h3>
 
-<p align="center">
+<p>
 I design and build practical digital systems that solve real-world problems.
 My focus is on backend logic, scalable architecture, and delivering reliable end-to-end web applications.
 </p>
 
 
-<h2 align="center">🚀 Languages and Tools.</h2>
+<h2>🚀 Languages and Tools.</h2>
 
 <p align="left">
 
