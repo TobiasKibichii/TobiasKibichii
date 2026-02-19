@@ -53,22 +53,45 @@ My focus is on backend logic, scalable architecture, and delivering reliable end
 
 <h2>📌 Projects</h2>
 
-<h3>🎓 Campus-Connect</h3>
+<h3>🛠️ <a href="https://github.com/TobiasKibichii/technotes" target="_blank">TechNotes – Repair Shop Workflow System</a></h3>
+
 <p>
-Designed a centralized communication platform improving information access and engagement within campus communities.
+TechNotes is a full-stack web application built to streamline operations in a tech repair shop. 
+It digitizes customer intake, technician assignment, repair tracking, and inventory management — replacing manual logs with a structured, auditable workflow.
 </p>
+
+<p>
+The system prioritizes clarity, accountability, and operational efficiency by ensuring every device, issue, and action is traceable from intake to resolution.
+</p>
+
 <ul>
-<li>Implemented secure authentication and real-time updates to support scalable user interaction.</li>
-<li>Strengthened skills in requirements analysis, teamwork, and delivering user-focused solutions.</li>
+<li>🧾 <strong>Repair Ticket Management</strong> — Create, update, and track repair tickets with detailed issue documentation.</li>
+<li>👨‍🔧 <strong>Technician Assignment</strong> — Assign tasks with real-time status tracking and accountability.</li>
+<li>📦 <strong>Inventory & Parts Logging</strong> — Record parts usage per repair to maintain accurate stock records.</li>
+<li>📊 <strong>Reporting & CSV Export</strong> — Filter records and export structured data for auditing and performance tracking.</li>
+<li>🔐 <strong>Role-Based Access Control</strong> — Secure JWT authentication with admin and technician-level permissions.</li>
 </ul>
 
-<h3>🛠️ Technotes</h3>
+
+<h3>🎓 <a href="https://github.com/TobiasKibichii/campus-connect" target="_blank">Campus Connect – University Community Platform</a></h3>
+
 <p>
-Built a workflow system to improve task tracking, accountability, and service turnaround for repair shops.
+Campus Connect is a scalable social platform designed for university environments. 
+It enables students to discover events, join communities, and engage in discussions within a structured and secure academic ecosystem.
 </p>
+
+<p>
+The platform emphasizes community engagement, intelligent information discovery, and personalized user experiences.
+</p>
+
 <ul>
-<li>Applied structured problem-solving to automate manual processes and reduce operational inefficiencies.</li>
+<li>🗓️ <strong>Event Discovery & Participation</strong> — Create, manage, and explore campus events with targeted visibility.</li>
+<li>💬 <strong>Groups & Communities</strong> — Join departmental, club, or interest-based groups for focused engagement.</li>
+<li>🔔 <strong>Real-Time Notifications</strong> — Dynamic updates for posts, events, and group activity.</li>
+<li>🧠 <strong>Personalized Recommendations</strong> — AI-driven content suggestions based on interests and interaction patterns.</li>
+<li>☁️ <strong>Media Management</strong> — Cloud-based image handling and optimized asset delivery.</li>
 </ul>
+
 
 
 <h2>🧠 Current Focus</h2>
