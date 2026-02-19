@@ -1,6 +1,6 @@
 ## Hi there 👽
 
-<h1>I'm Tobias Kibichii ✨ </h1>
+<h2>I'm Tobias Kibichii ✨ </h2>
 
 <h3>💻 Software Engineer | Full-Stack Developer</h3>
 
